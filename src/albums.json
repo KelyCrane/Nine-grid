@@ -1,0 +1,551 @@
+[
+  {
+    "id": "portraits",
+    "title": "人物肖像",
+    "category": "portrait",
+    "description": "提供的个人精选照片",
+    "images": [
+      {
+        "src": "media/portraits/01.jpg",
+        "alt": "人物肖像 · 1",
+        "original": "psc (1).jfif"
+      },
+      {
+        "src": "media/portraits/02.webp",
+        "alt": "人物肖像 · 2",
+        "original": "psc (1).webp"
+      },
+      {
+        "src": "media/portraits/03.webp",
+        "alt": "人物肖像 · 3",
+        "original": "psc (2).webp"
+      },
+      {
+        "src": "media/portraits/04.webp",
+        "alt": "人物肖像 · 4",
+        "original": "psc (3).webp"
+      },
+      {
+        "src": "media/portraits/05.webp",
+        "alt": "人物肖像 · 5",
+        "original": "psc (4).webp"
+      },
+      {
+        "src": "media/portraits/06.webp",
+        "alt": "人物肖像 · 6",
+        "original": "psc (5).webp"
+      },
+      {
+        "src": "media/portraits/07.webp",
+        "alt": "人物肖像 · 7",
+        "original": "psc.webp"
+      }
+    ]
+  },
+  {
+    "id": "snow-2013",
+    "title": "2013年的雪",
+    "category": "photography",
+    "description": "雪落在枝头的细节",
+    "images": [
+      {
+        "src": "media/snow-2013/01.jpg",
+        "alt": "2013年的雪 · 1",
+        "original": "1.jpg"
+      },
+      {
+        "src": "media/snow-2013/02.jpg",
+        "alt": "2013年的雪 · 2",
+        "original": "2.jpg"
+      },
+      {
+        "src": "media/snow-2013/03.jpg",
+        "alt": "2013年的雪 · 3",
+        "original": "3.jpg"
+      },
+      {
+        "src": "media/snow-2013/04.jpg",
+        "alt": "2013年的雪 · 4",
+        "original": "4.jpg"
+      },
+      {
+        "src": "media/snow-2013/05.jpg",
+        "alt": "2013年的雪 · 5",
+        "original": "5.jpg"
+      },
+      {
+        "src": "media/snow-2013/06.jpg",
+        "alt": "2013年的雪 · 6",
+        "original": "6.jpg"
+      },
+      {
+        "src": "media/snow-2013/07.jpg",
+        "alt": "2013年的雪 · 7",
+        "original": "7.jpg"
+      },
+      {
+        "src": "media/snow-2013/08.jpg",
+        "alt": "2013年的雪 · 8",
+        "original": "8.jpg"
+      },
+      {
+        "src": "media/snow-2013/09.jpg",
+        "alt": "2013年的雪 · 9",
+        "original": "9.jpg"
+      }
+    ]
+  },
+  {
+    "id": "qixia",
+    "title": "栖霞山",
+    "category": "photography",
+    "description": "山色、光线与行走中的画面",
+    "images": [
+      {
+        "src": "media/qixia/01.jpg",
+        "alt": "栖霞山 · 1",
+        "original": "psc (1).jfif"
+      },
+      {
+        "src": "media/qixia/02.webp",
+        "alt": "栖霞山 · 2",
+        "original": "psc (1).webp"
+      },
+      {
+        "src": "media/qixia/03.webp",
+        "alt": "栖霞山 · 3",
+        "original": "psc (14).webp"
+      },
+      {
+        "src": "media/qixia/04.jpg",
+        "alt": "栖霞山 · 4",
+        "original": "psc (2).jfif"
+      },
+      {
+        "src": "media/qixia/05.webp",
+        "alt": "栖霞山 · 5",
+        "original": "psc (2).webp"
+      },
+      {
+        "src": "media/qixia/06.jpg",
+        "alt": "栖霞山 · 6",
+        "original": "psc (3).jfif"
+      },
+      {
+        "src": "media/qixia/07.webp",
+        "alt": "栖霞山 · 7",
+        "original": "psc (3).webp"
+      },
+      {
+        "src": "media/qixia/08.jpg",
+        "alt": "栖霞山 · 8",
+        "original": "psc (4).jfif"
+      },
+      {
+        "src": "media/qixia/09.webp",
+        "alt": "栖霞山 · 9",
+        "original": "psc (4).webp"
+      },
+      {
+        "src": "media/qixia/10.jpg",
+        "alt": "栖霞山 · 10",
+        "original": "psc (5).jfif"
+      },
+      {
+        "src": "media/qixia/11.webp",
+        "alt": "栖霞山 · 11",
+        "original": "psc (5).webp"
+      },
+      {
+        "src": "media/qixia/12.jpg",
+        "alt": "栖霞山 · 12",
+        "original": "psc (6).jfif"
+      },
+      {
+        "src": "media/qixia/13.webp",
+        "alt": "栖霞山 · 13",
+        "original": "psc (6).webp"
+      },
+      {
+        "src": "media/qixia/14.webp",
+        "alt": "栖霞山 · 14",
+        "original": "psc (7).webp"
+      },
+      {
+        "src": "media/qixia/15.webp",
+        "alt": "栖霞山 · 15",
+        "original": "psc (8).webp"
+      },
+      {
+        "src": "media/qixia/16.webp",
+        "alt": "栖霞山 · 16",
+        "original": "psc (9).webp"
+      },
+      {
+        "src": "media/qixia/17.jpg",
+        "alt": "栖霞山 · 17",
+        "original": "psc.jfif"
+      },
+      {
+        "src": "media/qixia/18.webp",
+        "alt": "栖霞山 · 18",
+        "original": "psc.webp"
+      }
+    ]
+  },
+  {
+    "id": "suzhou",
+    "title": "苏州游",
+    "category": "photography",
+    "description": "在城市与园林之间",
+    "images": [
+      {
+        "src": "media/suzhou/01.jpg",
+        "alt": "苏州游 · 1",
+        "original": "psc (1).jfif"
+      },
+      {
+        "src": "media/suzhou/02.webp",
+        "alt": "苏州游 · 2",
+        "original": "psc (1).webp"
+      },
+      {
+        "src": "media/suzhou/03.webp",
+        "alt": "苏州游 · 3",
+        "original": "psc (10).webp"
+      },
+      {
+        "src": "media/suzhou/04.webp",
+        "alt": "苏州游 · 4",
+        "original": "psc (11).webp"
+      },
+      {
+        "src": "media/suzhou/05.webp",
+        "alt": "苏州游 · 5",
+        "original": "psc (12).webp"
+      },
+      {
+        "src": "media/suzhou/06.webp",
+        "alt": "苏州游 · 6",
+        "original": "psc (13).webp"
+      },
+      {
+        "src": "media/suzhou/07.jpg",
+        "alt": "苏州游 · 7",
+        "original": "psc (2).jfif"
+      },
+      {
+        "src": "media/suzhou/08.webp",
+        "alt": "苏州游 · 8",
+        "original": "psc (2).webp"
+      },
+      {
+        "src": "media/suzhou/09.webp",
+        "alt": "苏州游 · 9",
+        "original": "psc (3).webp"
+      },
+      {
+        "src": "media/suzhou/10.webp",
+        "alt": "苏州游 · 10",
+        "original": "psc (4).webp"
+      },
+      {
+        "src": "media/suzhou/11.webp",
+        "alt": "苏州游 · 11",
+        "original": "psc (5).webp"
+      },
+      {
+        "src": "media/suzhou/12.webp",
+        "alt": "苏州游 · 12",
+        "original": "psc (6).webp"
+      },
+      {
+        "src": "media/suzhou/13.webp",
+        "alt": "苏州游 · 13",
+        "original": "psc (7).webp"
+      },
+      {
+        "src": "media/suzhou/14.webp",
+        "alt": "苏州游 · 14",
+        "original": "psc (8).webp"
+      },
+      {
+        "src": "media/suzhou/15.webp",
+        "alt": "苏州游 · 15",
+        "original": "psc (9).webp"
+      },
+      {
+        "src": "media/suzhou/16.jpg",
+        "alt": "苏州游 · 16",
+        "original": "psc.jfif"
+      },
+      {
+        "src": "media/suzhou/17.webp",
+        "alt": "苏州游 · 17",
+        "original": "psc.webp"
+      }
+    ]
+  },
+  {
+    "id": "sanya",
+    "title": "三亚",
+    "category": "photography",
+    "description": "海边的旅行记忆",
+    "images": [
+      {
+        "src": "media/sanya/01.jpg",
+        "alt": "三亚 · 1",
+        "original": "1.jpg"
+      },
+      {
+        "src": "media/sanya/02.jpg",
+        "alt": "三亚 · 2",
+        "original": "2.jpg"
+      },
+      {
+        "src": "media/sanya/03.jpg",
+        "alt": "三亚 · 3",
+        "original": "4.jpg"
+      },
+      {
+        "src": "media/sanya/04.jpg",
+        "alt": "三亚 · 4",
+        "original": "6.jpg"
+      },
+      {
+        "src": "media/sanya/05.jpg",
+        "alt": "三亚 · 5",
+        "original": "7.jpg"
+      },
+      {
+        "src": "media/sanya/06.jpg",
+        "alt": "三亚 · 6",
+        "original": "8.jpg"
+      },
+      {
+        "src": "media/sanya/07.jpg",
+        "alt": "三亚 · 7",
+        "original": "9.jpg"
+      }
+    ]
+  },
+  {
+    "id": "exhibition",
+    "title": "3D画展",
+    "category": "visit",
+    "description": "走进画面，留下观展记录",
+    "images": [
+      {
+        "src": "media/exhibition/01.jpg",
+        "alt": "3D画展 · 1",
+        "original": "10.jfif"
+      },
+      {
+        "src": "media/exhibition/02.jpg",
+        "alt": "3D画展 · 2",
+        "original": "11.jfif"
+      },
+      {
+        "src": "media/exhibition/03.jpg",
+        "alt": "3D画展 · 3",
+        "original": "12.jfif"
+      },
+      {
+        "src": "media/exhibition/04.jpg",
+        "alt": "3D画展 · 4",
+        "original": "5.jpg"
+      },
+      {
+        "src": "media/exhibition/05.jpg",
+        "alt": "3D画展 · 5",
+        "original": "6.jpg"
+      },
+      {
+        "src": "media/exhibition/06.jpg",
+        "alt": "3D画展 · 6",
+        "original": "7.jpg"
+      },
+      {
+        "src": "media/exhibition/07.jpg",
+        "alt": "3D画展 · 7",
+        "original": "8.jpg"
+      },
+      {
+        "src": "media/exhibition/08.jpg",
+        "alt": "3D画展 · 8",
+        "original": "9.jfif"
+      },
+      {
+        "src": "media/exhibition/09.jpg",
+        "alt": "3D画展 · 9",
+        "original": "psb1.jpg"
+      },
+      {
+        "src": "media/exhibition/10.jpg",
+        "alt": "3D画展 · 10",
+        "original": "psb2.jpg"
+      },
+      {
+        "src": "media/exhibition/11.jpg",
+        "alt": "3D画展 · 11",
+        "original": "psb3.jpg"
+      },
+      {
+        "src": "media/exhibition/12.jpg",
+        "alt": "3D画展 · 12",
+        "original": "psb4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "motorcycles",
+    "title": "机车收藏",
+    "category": "inspiration",
+    "description": "喜欢的机车与造型，个人兴趣收藏",
+    "images": [
+      {
+        "src": "media/motorcycles/01.webp",
+        "alt": "机车收藏 · 1",
+        "original": "psc (1).webp"
+      },
+      {
+        "src": "media/motorcycles/02.webp",
+        "alt": "机车收藏 · 2",
+        "original": "psc (10).webp"
+      },
+      {
+        "src": "media/motorcycles/03.webp",
+        "alt": "机车收藏 · 3",
+        "original": "psc (11).webp"
+      },
+      {
+        "src": "media/motorcycles/04.webp",
+        "alt": "机车收藏 · 4",
+        "original": "psc (12).webp"
+      },
+      {
+        "src": "media/motorcycles/05.webp",
+        "alt": "机车收藏 · 5",
+        "original": "psc (13).webp"
+      },
+      {
+        "src": "media/motorcycles/06.webp",
+        "alt": "机车收藏 · 6",
+        "original": "psc (14).webp"
+      },
+      {
+        "src": "media/motorcycles/07.webp",
+        "alt": "机车收藏 · 7",
+        "original": "psc (15).webp"
+      },
+      {
+        "src": "media/motorcycles/08.webp",
+        "alt": "机车收藏 · 8",
+        "original": "psc (16).webp"
+      },
+      {
+        "src": "media/motorcycles/09.webp",
+        "alt": "机车收藏 · 9",
+        "original": "psc (17).webp"
+      },
+      {
+        "src": "media/motorcycles/10.webp",
+        "alt": "机车收藏 · 10",
+        "original": "psc (2).webp"
+      },
+      {
+        "src": "media/motorcycles/11.webp",
+        "alt": "机车收藏 · 11",
+        "original": "psc (3).webp"
+      },
+      {
+        "src": "media/motorcycles/12.webp",
+        "alt": "机车收藏 · 12",
+        "original": "psc (4).webp"
+      },
+      {
+        "src": "media/motorcycles/13.webp",
+        "alt": "机车收藏 · 13",
+        "original": "psc (5).webp"
+      },
+      {
+        "src": "media/motorcycles/14.webp",
+        "alt": "机车收藏 · 14",
+        "original": "psc (6).webp"
+      },
+      {
+        "src": "media/motorcycles/15.webp",
+        "alt": "机车收藏 · 15",
+        "original": "psc (7).webp"
+      },
+      {
+        "src": "media/motorcycles/16.webp",
+        "alt": "机车收藏 · 16",
+        "original": "psc (8).webp"
+      },
+      {
+        "src": "media/motorcycles/17.webp",
+        "alt": "机车收藏 · 17",
+        "original": "psc (9).webp"
+      },
+      {
+        "src": "media/motorcycles/18.jpg",
+        "alt": "机车收藏 · 18",
+        "original": "psc.jfif"
+      },
+      {
+        "src": "media/motorcycles/19.webp",
+        "alt": "机车收藏 · 19",
+        "original": "psc.webp"
+      }
+    ]
+  },
+  {
+    "id": "chen-residence",
+    "title": "陳宅 _ 分子設計",
+    "category": "project",
+    "description": "公司参与的住宅空间项目",
+    "images": [
+      {
+        "src": "media/chen-residence/01.jpg",
+        "alt": "陳宅 _ 分子設計 · 1",
+        "original": "1.jpg"
+      },
+      {
+        "src": "media/chen-residence/02.jpg",
+        "alt": "陳宅 _ 分子設計 · 2",
+        "original": "2.jpg"
+      },
+      {
+        "src": "media/chen-residence/03.jpg",
+        "alt": "陳宅 _ 分子設計 · 3",
+        "original": "3.jpg"
+      },
+      {
+        "src": "media/chen-residence/04.jpg",
+        "alt": "陳宅 _ 分子設計 · 4",
+        "original": "4.jpg"
+      },
+      {
+        "src": "media/chen-residence/05.jpg",
+        "alt": "陳宅 _ 分子設計 · 5",
+        "original": "5.jpg"
+      },
+      {
+        "src": "media/chen-residence/06.jpg",
+        "alt": "陳宅 _ 分子設計 · 6",
+        "original": "6.jpg"
+      },
+      {
+        "src": "media/chen-residence/07.jpg",
+        "alt": "陳宅 _ 分子設計 · 7",
+        "original": "7.jpg"
+      },
+      {
+        "src": "media/chen-residence/08.jpg",
+        "alt": "陳宅 _ 分子設計 · 8",
+        "original": "8.jpg"
+      }
+    ]
+  }
+]

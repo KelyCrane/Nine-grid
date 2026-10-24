@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.storage/
+.tools/
+.taste-skill/
+南京九宫格文化传媒有限公司_资料/
+previews/
+preview.html
+prompts.json
+asset-inventory.json
+delivery-manifest.json
+.env*

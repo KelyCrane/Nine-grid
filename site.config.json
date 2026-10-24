@@ -1,0 +1,15 @@
+{
+  "name": "南京九宫格文化传媒有限公司",
+  "url": "https://kelycrane.github.io/Nine-grid/",
+  "github": {
+    "owner": "KelyCrane",
+    "repository": "Nine-grid"
+  },
+  "teamLayout": "2-top-3-bottom",
+  "primaryMember": {
+    "id": "kong-ling",
+    "position": "top-right",
+    "name": "孔玲"
+  },
+  "status": "local-preview-not-published"
+}
