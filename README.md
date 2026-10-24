@@ -42,7 +42,7 @@ npm.cmd run build
 已准备 .github/workflows/pages.yml，默认仅手动触发，不会自动发布。
 上传源码到独立GitHub仓库后，在 Settings → Pages 选择 GitHub Actions，再手动运行 Build static website。
 base 为 ./，个人页使用 hash，不需要服务器重写规则，也不会占用现有个人博客仓库。
-本轮未创建远程仓库、未推送、未公开发布。
+已发布至 https://kelycrane.github.io/Nine-grid/ ，源码仓库为 https://github.com/KelyCrane/Nine-grid 。
 
 ## 检查与存储
 npm run build 执行类型检查与生产构建。
@@ -52,4 +52,4 @@ scripts/browser-qa.mjs 为本机交互验收脚本，复用原先个人博客中
 设计技能位于 .tools/skills/taste-skill；设计记录位于 .taste-skill/。
 本轮QA与生产文件大小以 .storage/qa/implementation-report.json 为准。
 
-正式发布目标已按用户确认固定为 https://kelycrane.github.io/Nine-grid/ ，对应独立仓库 KelyCrane/Nine-grid。当前仍为本地版本，尚未推送发布。
+正式发布目标已按用户确认固定为 https://kelycrane.github.io/Nine-grid/ ，对应独立仓库 KelyCrane/Nine-grid。已完成发布，线上首页、个人主页深链刷新、项目与照片图库均通过检查。
